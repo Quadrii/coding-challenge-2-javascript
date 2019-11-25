@@ -1,5 +1,5 @@
 # coding-challenge-2-javascript
-Javascript coding Challenge
+Javascript coding Challenge 2:
 John and Mike both teams play basketball. In the latest 3 games, John's team scored 89, 120 and 103 points, while Mike's team scored 116, 94 and 123 points. 
 1. Calculate the average score for each team.
 2. Decide which team wins in average (highest average score), and print the winner to the console. Also include the average score in the output
